@@ -1,0 +1,3 @@
+[submodule "okhttp"]
+	path = okhttp
+	url = https://github.com/skinzer/okhttp
